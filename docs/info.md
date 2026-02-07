@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+switch input0 to high to activate the frequency divider
 
 ## How to test
 
-Explain how to use your project
+You should see a smaller freqency at the output
 
 ## External hardware
 
